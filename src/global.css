@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+}
+
+hr{
+    width: 100%;
+    background: aliceblue;
+    margin-top: -10px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.dflex{
+    display: flex;
+    padding: 20px;
+}
+.btnNav{
+    align-self: center;
+}
+
+.btnNav > button {
+    margin-left: 30px;
+}
+
+.gif{
+    width: 300px;
+    height: 300px;
+    padding: 4px;
+}
+
+.hi{
+    width: 1200px;
+    margin: 0 auto;
+    height: 900px;
+}
